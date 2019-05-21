@@ -1,2 +1,6 @@
-welcome to devops and git
 welcome to developer2
+<<<<<<< to developer2
+welcome to developer2to developer1 
+=======
+welcome to developer2
+>>>>>>>
