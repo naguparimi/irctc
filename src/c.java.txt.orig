@@ -1,0 +1,6 @@
+welcome to devops and git
+<<<<<<< HEAD
+welcome to developer2
+=======
+welcome to developer1
+>>>>>>> 31e9cdf5d33fb5aea422024d719e68b43f3cb1f8
